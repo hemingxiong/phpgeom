@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php-http/guzzle6-adapter": "^2.0",
+        "guzzlehttp/psr7": "^1.8",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "oneofftech/geoserver-client-php": "^0.3.0"
+    },
+
+
+    "name": "your-vendor-name/package-name",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+
+}
